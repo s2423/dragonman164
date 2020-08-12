@@ -1,16 +1,52 @@
-### Hi there 👋
+### Hi there 👋, My name is SANIDHIYA
+#### I am Cyber Security Analyst, Programmer and App Developer
+![I am Cyber Security Analyst, Programmer and App Developer](https://www.prodefence.org/wp-content/uploads/2019/04/1-ZNvI3P8tXMgcSmmNXqa0Ig.png)
 
-<!--
-**dragonman164/dragonman164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### Skills 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.icons8.com/color/48/000000/c-programming.png"/> 
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/python.png"/>
+<img src="https://img.icons8.com/color/48/000000/flutter.png"/>
+
+
+
+
+
+#### About Me
+
+
+- 🌱 I’m currently learning Competitive Programming and ML 
+- 👯 I’m looking to collaborate on Android App development (Using Google Dart Framework) 
+- 🤔 I’m looking for help with Machine Learning and Deep Learning 
+- 💬 Ask me about Any doubts related to Ethical Hacking and App Development 
+- 📫 How to reach me: Contact me on LinkedIn, My Website or YouTube Channel  
+- 😄 Pronouns: Hacker's DNA,dragonman164 
+- ⚡ Fun fact: I like PaniPuri not masala Puri!!!! 
+
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dragonman164&show_icons=truee&theme=radical)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragonman164&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+#### My Personal Links
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github'  height='40'>   ](https://github.com/dragonman164)    Github      
+
+
+[<img src='https://img.icons8.com/color/48/000000/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/sanidhiya-g-86a427192/) LinkedIn  
+
+[<img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>](https://www.youtube.com/channel/UCBg5oRaC1bKbx1LaqY5HWYA) Youtube
+
+[<img src='https://hackersdna.ml/wp-content/uploads/2020/05/cropped-c5b752cc0bf052877e4057d6cb4d7203-assassins-creed-logo-assasins-creed-32x32.jpg' alt='archlinux' height='40'>](hackersdna.ml) My Personal Website/Blog
+
+#### My Github Pins
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>    Artctic Vault Contributor 
+
+
+
+![Profile views](https://gpvc.arturio.dev/dragonman164)  
