@@ -1,14 +1,14 @@
 ### Hi there 👋, My name is SANIDHIYA
 #### I am Cyber Security Analyst, Programmer and App Developer
-![I am Cyber Security Analyst, Programmer and App Developer](https://www.prodefence.org/wp-content/uploads/2019/04/1-ZNvI3P8tXMgcSmmNXqa0Ig.png)
+
 
 
 #### Skills 
 
-<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>   C Programming Language
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>  C++ Programming Language
-<img src="https://img.icons8.com/color/48/000000/python.png"/> Python Programming Language
-<img src="https://img.icons8.com/color/48/000000/flutter.png"/>  Flutter Framework in Dart Language
+<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>   C 
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>  C++ 
+<img src="https://img.icons8.com/color/48/000000/python.png"/> Python
+<img src="https://img.icons8.com/color/48/000000/flutter.png"/>  Flutter Framework
 
 
 
