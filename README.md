@@ -29,8 +29,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dragonman164&show_icons=truee&theme=radical)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragonman164&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 
 #### My Personal Links
 
