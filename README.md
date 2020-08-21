@@ -18,12 +18,12 @@
 
 
 - 🌱 I’m currently learning Competitive Programming and ML 
-- 👯 I’m looking to collaborate on Android App development (Using Google Dart Framework) 
+- 👯 I’m looking to collaborate on Android App development (Using Flutter Framework) 
 - 🤔 I’m looking for help with Machine Learning and Deep Learning 
-- 💬 Ask me about Any doubts related to Ethical Hacking and App Development 
-- 📫 How to reach me: Contact me on LinkedIn, My Website or YouTube Channel  
+- 💬 Ask me about any doubts related to Ethical Hacking and App Development 
+- 📫 How to reach me?: Contact me on LinkedIn, my Website or on my YouTube Channel  
 - 😄 Pronouns: Hacker's DNA,dragonman164 
-- ⚡ Fun fact: I like PaniPuri not masala Puri!!!! 
+- ⚡ Fun fact: I like PaniPuri not MasalaPuri!!!! 
 
 
 
