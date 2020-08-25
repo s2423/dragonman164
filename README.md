@@ -39,7 +39,7 @@
 
 [<img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>](https://www.youtube.com/channel/UCBg5oRaC1bKbx1LaqY5HWYA) Youtube
 
-[<img src='https://hackersdna.ml/wp-content/uploads/2020/05/cropped-c5b752cc0bf052877e4057d6cb4d7203-assassins-creed-logo-assasins-creed-32x32.jpg' alt='archlinux' height='40'>](https://hackersdna.ml) My Personal Website/Blog
+[<img src='https://hackersdna.ml/wp-content/uploads/2020/05/cropped-c5b752cc0bf052877e4057d6cb4d7203-assassins-creed-logo-assasins-creed-32x32.jpg' alt='archlinux' height='40'>](https://dragonman164.tech) My Personal Website/Blog
 
 #### My Github Pins
 
